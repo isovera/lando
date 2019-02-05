@@ -106,8 +106,8 @@ services:
   appserver:
     overrides:
       services:
-	environment:
-	  BASEURL: http://nginx
+        environment:
+          BASEURL: http://nginx
 ```
 
 
